@@ -1,0 +1,26 @@
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.exe
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.pdb
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Form1.resources
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Properties.Resources.resources
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csproj.GenerateResource.Cache
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.exe
+c:\users\albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.pdb
+C:\Users\Albert\documents\visual studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.exe
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.pdb
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Form1.resources
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Properties.Resources.resources
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.exe
+C:\Users\Albert\Documents\College\albert\Visual Studio 2010\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.pdb
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.exe
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\bin\Debug\RectangleWinFormsGame.pdb
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csprojAssemblyReference.cache
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Form1.resources
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.Properties.Resources.resources
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.exe
+C:\Users\Albert\Documents\Programming\Projects\RectangleWinFormsGame\RectangleWinFormsGame\obj\x86\Debug\RectangleWinFormsGame.pdb
